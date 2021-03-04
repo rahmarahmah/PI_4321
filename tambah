@@ -1,0 +1,7 @@
+a = "Aku";
+b = "Kamu";
+
+a+b=c;
+c="Kita";
+
+print(c);
